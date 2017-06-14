@@ -1,0 +1,20 @@
+/*my CSS file for the Bootstrap project*/
+
+body {
+	padding-bottom: 80px;
+}
+
+#headerColor{
+	color:blue;
+}
+
+/*about.html*/
+.page-header {
+    margin-top: 0;
+}
+.panel-body {
+    padding-top: 0;
+}
+.featureImg{
+    padding-bottom: 15px;
+}
